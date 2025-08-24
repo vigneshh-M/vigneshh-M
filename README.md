@@ -48,7 +48,7 @@
 ![Ps](	https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 ![music](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 
-![music]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5lNjczdGs4aXJsc25pY3Iyc2syZW45cWs2N2VlcHp1ajZ2b3YxdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y0NFayaBeiWEU/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBnaXc2OWtobWZzM3ExcWQ5NnFpdndjdGJla3V6N3I5emllazV2YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tqfS3mgQU28ko/giphy.gif))
+![music](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBnaXc2OWtobWZzM3ExcWQ5NnFpdndjdGJla3V6N3I5emllazV2YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tqfS3mgQU28ko/giphy.gif)
 ![cinema](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmV1NWhhNTU4Z3BkOHZoZGltdWQzOHZqdzl5cXF3OTRudTU2cHk3OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEdvcYvEwk7gnADOU/giphy.gif)
 ---
 
