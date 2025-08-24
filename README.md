@@ -2,7 +2,7 @@
 
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧑‍💻 Developer | 💻 Editor
 
-![Coding GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d24xcnNieTZ3NnlkeHhzMTRlb3A4amJqNGt5OW80YnlwYnJzZG12byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Coding GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d24xcnNieTZ3NnlkeHhzMTRlb3A4amJqNGt5OW80YnlwYnJzZG12byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif)
 
 ---
 
