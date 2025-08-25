@@ -47,13 +47,17 @@
 ![Xbox](	https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
 ![Ps](	https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 ![music](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+![x](https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white)
+![x1](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 
 ![music](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBnaXc2OWtobWZzM3ExcWQ5NnFpdndjdGJla3V6N3I5emllazV2YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tqfS3mgQU28ko/giphy.gif)
 ![cinema](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmV1NWhhNTU4Z3BkOHZoZGltdWQzOHZqdzl5cXF3OTRudTU2cHk3OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEdvcYvEwk7gnADOU/giphy.gif)
 ---
 
 ## 📱 Contact Me
+[![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![x](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vicky_efx)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](9342302872)
 
